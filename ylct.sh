@@ -17,11 +17,11 @@ if [ "$VIDEO_ID" == "null" ]; then
     exit 1
 fi 
 
-echo "Obtained Video id of livestream"
+echo "Obtained Video id of livestream: $VIDEO_ID"
 
 # Get the live chat id
 LIVE_CHAT_ID=$(curl -s "https://www.googleapis.com/youtube/v3/videos?part=liveStreamingDetails,snippet&id=${VIDEO_ID}&key=${API_KEY}" | jq -r '.items[0].liveStreamingDetails.activeLiveChatId')
-echo "Obtained live chat ID"
+echo "Obtained live chat ID: $LIVE_CHAT_ID"
 
 # Continually grab chat messages
 while true; do
@@ -29,19 +29,23 @@ while true; do
     # Get messages
     RESPONSE=$(curl -s "https://www.googleapis.com/youtube/v3/liveChat/messages?liveChatId=${LIVE_CHAT_ID}&part=snippet,authorDetails&maxResults=2000&pageToken=${PAGE_TOKEN}&key=${API_KEY}")
 
+    if [ "$RESPONSE" == "null" ]; then
+        echo "Invalid JSON"
+        exit 1
+    fi
+
     # Print the messages 
     # Mods get blue names, Members get green names
     echo "$RESPONSE" | jq -r '
         .items[] | 
-        (
             if .authorDetails.isChatModerator == true then
-                "\033[0;34m\(.authorDetails.displayName)\033[0m: \(.snippet.displayMessage)"
+                "\u001b[0;34m\(.authorDetails.displayName)\u001b[0m: \(.snippet.displayMessage)"
             elif .authorDetails.isChatSponsor == true then
-                "\033[0;32m\(.authorDetails.displayName)\033[0m: \(.snippet.displayMessage)"
+                "\u001b[0;32m\(.authorDetails.displayName)\u001b[0m: \(.snippet.displayMessage)"
             else
                 "\(.authorDetails.displayName): \(.snippet.displayMessage)"
             end
-        )'
+    '
 
     # Grab the next page token and polling interval
     PAGE_TOKEN=$(echo "$RESPONSE" | jq -r '.nextPageToken')
