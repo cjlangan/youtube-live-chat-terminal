@@ -20,7 +20,8 @@
 #### Export to bashrc
 
 ```bash
-echo 'your-api-key' >> ~/.bashrc
+echo 'export YT_API_KEY="your-api-key"' >> ~/.bashrc
+source ~/.bashrc
 ```
 
 #### or (more simply) add to ylct.sh
