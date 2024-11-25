@@ -1,0 +1,1962 @@
+{
+  "kind": "youtube#liveChatMessageListResponse",
+  "etag": "ZhLf2n_dUhWwS3Gp42q8Tw68xvQ",
+  "pollingIntervalMillis": 5053,
+  "pageInfo": {
+    "totalResults": 75,
+    "resultsPerPage": 75
+  },
+  "nextPageToken": "GNTgk6qh9okDILyM4a2h9okD",
+  "items": [
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "Yfrmogn8aPYLoRZxdk5JI4y6UpM",
+      "id": "LCC.EhwKGkNLeWR2TUdnOW9rREZmcVQ1UWNkeVpBVThn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCLgO5bEL04VdJQxgbEmPv5g",
+        "publishedAt": "2024-11-25T00:44:15.230157+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "actually KRAGG IS low tier",
+        "textMessageDetails": {
+          "messageText": "actually KRAGG IS low tier"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCLgO5bEL04VdJQxgbEmPv5g",
+        "channelUrl": "http://www.youtube.com/channel/UCLgO5bEL04VdJQxgbEmPv5g",
+        "displayName": "Christian Rojas",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_livBapInjDkDS2g8YT8pWgK7CqZ4j61DS2MR8AGqPzgsg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": true,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "L77dUAmQgwqiPgaA3EZCTTSCZlg",
+      "id": "LCC.EhwKGkNLaVE0OEdnOW9rREZjelJsQWtkSXlJNlhB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCRd9S2qgkC8ECUbLKtkI5zg",
+        "publishedAt": "2024-11-25T00:44:15.867805+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "*faced",
+        "textMessageDetails": {
+          "messageText": "*faced"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCRd9S2qgkC8ECUbLKtkI5zg",
+        "channelUrl": "http://www.youtube.com/channel/UCRd9S2qgkC8ECUbLKtkI5zg",
+        "displayName": "Jesse Williams",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k7wQpsB3tWKzartUqp_OpRlDsMVlJYk9ko7OLgiPWJCQ=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "vIBjE_3ok0aCTdgIz9lE3PoojKQ",
+      "id": "LCC.EhwKGkNJV003OEdnOW9rREZUdlFsQWtkaXN3TmRR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "publishedAt": "2024-11-25T00:44:16.063592+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "The Coinbox #119 - Rivals II registration is live now! The first tournament using the new Rivals II patch. Register here and play on Dec. 4! https://start.gg/coinbox",
+        "textMessageDetails": {
+          "messageText": "The Coinbox #119 - Rivals II registration is live now! The first tournament using the new Rivals II patch. Register here and play on Dec. 4! https://start.gg/coinbox"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "channelUrl": "http://www.youtube.com/channel/UCNL8jaJ9hId96P13QmQXNtA",
+        "displayName": "Streamlabs",
+        "profileImageUrl": "https://yt3.ggpht.com/_50MrQGxBLUD72VPogfj7ZNoetbb3Mz6WOaW24NxKvK5dYefK8t4eFUDCGPl3qtfMzsUBv2dwg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": true,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": true
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "CAzxchqhfACjzvKU--DIUiCYG1s",
+      "id": "LCC.EhwKGkNNLS04c0dnOW9rREZSWDFsQWtkREQwby13",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCr3huVfMqqTT_wMmDsRWjYw",
+        "publishedAt": "2024-11-25T00:44:16.119477+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "!bracket",
+        "textMessageDetails": {
+          "messageText": "!bracket"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCr3huVfMqqTT_wMmDsRWjYw",
+        "channelUrl": "http://www.youtube.com/channel/UCr3huVfMqqTT_wMmDsRWjYw",
+        "displayName": "Jamie",
+        "profileImageUrl": "https://yt3.ggpht.com/tsIDuINqOhOj77aurzLbfid0yU0v7CdQEOvr3OczOH-7ZR-7opFWMjSbEXAJFFbwH_o2zuntvuM=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "Tx4kfY3GcS_CcbX6_2ycafgAmnc",
+      "id": "LCC.EhwKGkNJQ1N3c0tnOW9rREZablB3Z1FkU3pRMFpB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCbMkQp47DHwO_CDOOFBzOag",
+        "publishedAt": "2024-11-25T00:44:17.422746+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "ranno doesn't lose any matchups let's be real",
+        "textMessageDetails": {
+          "messageText": "ranno doesn't lose any matchups let's be real"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCbMkQp47DHwO_CDOOFBzOag",
+        "channelUrl": "http://www.youtube.com/channel/UCbMkQp47DHwO_CDOOFBzOag",
+        "displayName": "Tyler",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k88N7N2HbBR7y523-fsCY_6_sgDWs3psBKsCdvH56pZg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "mU0XD4X03KXAZokNGsPVJwQvP2U",
+      "id": "LCC.EhwKGkNJTFcwc0tnOW9rREZab0sxZ0FkNUY0T3pB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "publishedAt": "2024-11-25T00:44:17.696839+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Right lmao",
+        "textMessageDetails": {
+          "messageText": "Right lmao"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "channelUrl": "http://www.youtube.com/channel/UCptRRnObZy7rb9sS1CLmuCw",
+        "displayName": "aplsed",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPotI68hVZLtMKbQj0FMMYSzYX4d3jp-IQFhszq0t_vb9Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "Yc3ha_rIRVXPYG7G3y_rar7JmbM",
+      "id": "LCC.EhwKGkNKQ083TUtnOW9rREZlWGV3Z1FkWG8waF9R",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCiptKVVS7rp6gDyt4vYGjIQ",
+        "publishedAt": "2024-11-25T00:44:18.111883+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "What in the sausage fest?",
+        "textMessageDetails": {
+          "messageText": "What in the sausage fest?"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCiptKVVS7rp6gDyt4vYGjIQ",
+        "channelUrl": "http://www.youtube.com/channel/UCiptKVVS7rp6gDyt4vYGjIQ",
+        "displayName": "comment crusader",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lXhkgQ4J84N6U3phAozBqnir-VDP0zhCtE3w0yc2g=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "SOPyZFJZyREiCOqPSjl80izfAFw",
+      "id": "LCC.EhwKGkNOSHpfTUtnOW9rREZhRENsQWtkTDRRMmdn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "publishedAt": "2024-11-25T00:44:18.386221+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@jesseG, https://www.start.gg/tournament/lacs-rivals/events",
+        "textMessageDetails": {
+          "messageText": "@jesseG, https://www.start.gg/tournament/lacs-rivals/events"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "channelUrl": "http://www.youtube.com/channel/UCNL8jaJ9hId96P13QmQXNtA",
+        "displayName": "Streamlabs",
+        "profileImageUrl": "https://yt3.ggpht.com/_50MrQGxBLUD72VPogfj7ZNoetbb3Mz6WOaW24NxKvK5dYefK8t4eFUDCGPl3qtfMzsUBv2dwg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": true,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": true
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "S9m_hk1GKyquE12brNxwp50KIzU",
+      "id": "LCC.EhwKGkNPM0pfc0tnOW9rREZYTGM0d2NkaE1FWERn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "publishedAt": "2024-11-25T00:44:18.414134+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@Jamie, https://www.start.gg/tournament/lacs-rivals/events",
+        "textMessageDetails": {
+          "messageText": "@Jamie, https://www.start.gg/tournament/lacs-rivals/events"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "channelUrl": "http://www.youtube.com/channel/UCNL8jaJ9hId96P13QmQXNtA",
+        "displayName": "Streamlabs",
+        "profileImageUrl": "https://yt3.ggpht.com/_50MrQGxBLUD72VPogfj7ZNoetbb3Mz6WOaW24NxKvK5dYefK8t4eFUDCGPl3qtfMzsUBv2dwg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": true,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": true
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "dWTd6PZ4w0MinABiRhAPbQz2dyQ",
+      "id": "LCC.EhwKGkNMaldzc2FnOW9rREZaWEJ3Z1FkSFNzVlZn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCQ5uaoGG6dHnxjc1wJgkUmQ",
+        "publishedAt": "2024-11-25T00:44:25.558763+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "ranno aint top 1 or top 2",
+        "textMessageDetails": {
+          "messageText": "ranno aint top 1 or top 2"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCQ5uaoGG6dHnxjc1wJgkUmQ",
+        "channelUrl": "http://www.youtube.com/channel/UCQ5uaoGG6dHnxjc1wJgkUmQ",
+        "displayName": "SebZ",
+        "profileImageUrl": "https://yt3.ggpht.com/tq6ATywdkyN5PJz2327q19vbo48Nv3leKYzclj_QEqLrxWviFt0ly2xpa32vDEdXCA2OkullMI4=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "COm0stbtoIqDIM9lD3yO2x_fZ3A",
+      "id": "LCC.EhwKGkNLM1dfTWVnOW9rREZUbkR3Z1Fkd1BzRmRB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC5E2czfur7nKHWALKPz1IYg",
+        "publishedAt": "2024-11-25T00:44:28.868262+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Dan is so quiet during interviews lmao",
+        "textMessageDetails": {
+          "messageText": "Dan is so quiet during interviews lmao"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC5E2czfur7nKHWALKPz1IYg",
+        "channelUrl": "http://www.youtube.com/channel/UC5E2czfur7nKHWALKPz1IYg",
+        "displayName": "Naxtor",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nfkPoUfY9V93tWsY3CZvoumsrhqZ135w5r0oa0cpaDNkTY=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "N0Z0C_wy7bM1q4woM7M7I_s5YwA",
+      "id": "LCC.EhwKGkNOelhoY2lnOW9rREZXZk1sQWtkY1hjaDRR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCtlPNBvA-guuSp6cNJOEFRg",
+        "publishedAt": "2024-11-25T00:44:29.018091+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "COPE",
+        "textMessageDetails": {
+          "messageText": "COPE"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCtlPNBvA-guuSp6cNJOEFRg",
+        "channelUrl": "http://www.youtube.com/channel/UCtlPNBvA-guuSp6cNJOEFRg",
+        "displayName": "akaax",
+        "profileImageUrl": "https://yt3.ggpht.com/SB2k7rsrWuuD6LfEKW_HW281BJWwmFae553aM_SuPyxwGwmyeqoTjnP6_F_pE8MfPHZsslRDwQ=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "NHcNizMNerAnkKDpArveHUBE3Ms",
+      "id": "LCC.EhwKGkNQZWU1c2lnOW9rREZmUEN3Z1FkY1lveXFB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC31r6U7fF6cIQIHHXLQGxZw",
+        "publishedAt": "2024-11-25T00:44:30.598444+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Shadowhawke Pog",
+        "textMessageDetails": {
+          "messageText": "Shadowhawke Pog"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC31r6U7fF6cIQIHHXLQGxZw",
+        "channelUrl": "http://www.youtube.com/channel/UC31r6U7fF6cIQIHHXLQGxZw",
+        "displayName": "Kipper",
+        "profileImageUrl": "https://yt3.ggpht.com/LeiPcW3T-EFuVeGil7QIxS15uMH68rnlXdNdVDtcB0jO3wIg84Riq0MrDf_dG_N_JuPEnKtYFL8=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "wmko8Nh3VSXmw1q0NFSuwCJAkYU",
+      "id": "LCC.EhwKGkNORGdsY3VnOW9rREZVa0kxZ0FkMEt3c3FB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "publishedAt": "2024-11-25T00:44:35.570494+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Kragg is Top 5 at worst",
+        "textMessageDetails": {
+          "messageText": "Kragg is Top 5 at worst"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "channelUrl": "http://www.youtube.com/channel/UCptRRnObZy7rb9sS1CLmuCw",
+        "displayName": "aplsed",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPotI68hVZLtMKbQj0FMMYSzYX4d3jp-IQFhszq0t_vb9Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "IoE990NI4bJgKUBRroJG4ZyTGbk",
+      "id": "LCC.EhwKGkNPVFdnczJnOW9rREZUZkJsQWtkbnI0Zy13",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC1thcgiuCjrWLlDuQxDgtLA",
+        "publishedAt": "2024-11-25T00:44:39.453934+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "translation: pls dont nerf my main dan",
+        "textMessageDetails": {
+          "messageText": "translation: pls dont nerf my main dan"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC1thcgiuCjrWLlDuQxDgtLA",
+        "channelUrl": "http://www.youtube.com/channel/UC1thcgiuCjrWLlDuQxDgtLA",
+        "displayName": "sobbles",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l5t9R_deC59YrHgBEyzxbLsqbmAvyKBv0G0_EhvOJVmw=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "UpI1lbiPkgtOMddQOvqDsd65h18",
+      "id": "LCC.EhwKGkNQel9uTTJnOW9rREZhZ0oxZ0FkSFZJbWxR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCO3dqSyAxZUKZ-dzwdQQM6w",
+        "publishedAt": "2024-11-25T00:44:39.886748+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Paid off by nintendo to destroy ROA2's future",
+        "textMessageDetails": {
+          "messageText": "Paid off by nintendo to destroy ROA2's future"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCO3dqSyAxZUKZ-dzwdQQM6w",
+        "channelUrl": "http://www.youtube.com/channel/UCO3dqSyAxZUKZ-dzwdQQM6w",
+        "displayName": "klafsen",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kPJgTiIgm64XD-xRKpJPIWtpqxogZCHp3z0RK1CLafUQ=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "seqkchtjLM6SWhdqYhOBKO47owY",
+      "id": "LCC.EhwKGkNKeW5sczZnOW9rREZiOEsxZ0FkbUlna2lB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "publishedAt": "2024-11-25T00:44:41.873124+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Shadowhawke is here??",
+        "textMessageDetails": {
+          "messageText": "Shadowhawke is here??"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "channelUrl": "http://www.youtube.com/channel/UCptRRnObZy7rb9sS1CLmuCw",
+        "displayName": "aplsed",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPotI68hVZLtMKbQj0FMMYSzYX4d3jp-IQFhszq0t_vb9Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "-QzDUs8pQnieh5wRTvRXpDuy5Yo",
+      "id": "LCC.EhwKGkNLYUx0YzZnOW9rREZTcjVsQWtkLXpjSlZ3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCi6xiR2X2uu2PNXmiIlFHyg",
+        "publishedAt": "2024-11-25T00:44:42.375483+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "cap",
+        "textMessageDetails": {
+          "messageText": "cap"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCi6xiR2X2uu2PNXmiIlFHyg",
+        "channelUrl": "http://www.youtube.com/channel/UCi6xiR2X2uu2PNXmiIlFHyg",
+        "displayName": "Ray Chand",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kzSzPDJyUElJ6HRsCA2K6kGNBdD8AwJg2rm9Jo1Ns=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "7c8kCgHsx-MpJJxJTNL3s4IIHYA",
+      "id": "LCC.EhwKGkNJdXd1OC1nOW9rREZjN0N3Z1FkLVprUHN3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC5hKRYgEwXm9eKZEUbVEgNA",
+        "publishedAt": "2024-11-25T00:44:44.575687+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "this guy fucking sucks",
+        "textMessageDetails": {
+          "messageText": "this guy fucking sucks"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC5hKRYgEwXm9eKZEUbVEgNA",
+        "channelUrl": "http://www.youtube.com/channel/UC5hKRYgEwXm9eKZEUbVEgNA",
+        "displayName": "taskana1",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kMxENzoY56wT29Lq19qDKkFlvCJTCBOTpCUZllm5Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "5CA9Yq5vBsFo3R7wcTy-M5uoYZ0",
+      "id": "LCC.EhwKGkNNZXZ5Yy1nOW9rREZaN0dGZ2tkN0wwQXpn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC9FHPTZ6PcfCOBT-RHpeObg",
+        "publishedAt": "2024-11-25T00:44:44.805469+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "ION is trying to dodge the nerfs so hard",
+        "textMessageDetails": {
+          "messageText": "ION is trying to dodge the nerfs so hard"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC9FHPTZ6PcfCOBT-RHpeObg",
+        "channelUrl": "http://www.youtube.com/channel/UC9FHPTZ6PcfCOBT-RHpeObg",
+        "displayName": "Maw",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n50XWhNPr4qmpDqTsjAhYXyrkAKjRwiXj3QrLGrss=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "Z_4OHQ2gcU-bpZYfy0CmIDm-gms",
+      "id": "LCC.EhwKGkNMWHdyZENnOW9rREZablB3Z1FkU3pRMFpB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCfnCGvHhQkbK8_Xnzwxs29Q",
+        "publishedAt": "2024-11-25T00:44:46.452092+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "I already hate this Kragg main YEP",
+        "textMessageDetails": {
+          "messageText": "I already hate this Kragg main YEP"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCfnCGvHhQkbK8_Xnzwxs29Q",
+        "channelUrl": "http://www.youtube.com/channel/UCfnCGvHhQkbK8_Xnzwxs29Q",
+        "displayName": "Antonio Ramirez",
+        "profileImageUrl": "https://yt3.ggpht.com/Nm3ooS8Ar2uHeHTrlhtK8QWfVyGGqIogy1cGooPnJM3yB7OyuE6Xce4j59bk6d3RxNYHWrjP=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": true,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "f68_IoO3M5xHEtLaYKDu38mvgZc",
+      "id": "LCC.EhwKGkNNYW1oTlNnOW9rREZiVE5GZ2tkbUJnYWt3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCgHtzfHbIKMVuxhmZRbT7VQ",
+        "publishedAt": "2024-11-25T00:44:54.159789+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "what does he mean by floaties??? He just cant combo them as ahrd",
+        "textMessageDetails": {
+          "messageText": "what does he mean by floaties??? He just cant combo them as ahrd"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCgHtzfHbIKMVuxhmZRbT7VQ",
+        "channelUrl": "http://www.youtube.com/channel/UCgHtzfHbIKMVuxhmZRbT7VQ",
+        "displayName": "Josh Kardules",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n8Zsr-RcsXlf8-eJri648-ay62qwAhsBWICQA5w63kvU8=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "rBLAshzHqAN714nCLMG-UfvHi-I",
+      "id": "LCC.EhwKGkNMRHF4TmFnOW9rREZZX1RsQWtkRHVvS01n",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCmD0KEheeKoOrp12TIGXHZQ",
+        "publishedAt": "2024-11-25T00:44:59.412089+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "i dont see ranno top 1; i wanna know what he sees",
+        "textMessageDetails": {
+          "messageText": "i dont see ranno top 1; i wanna know what he sees"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCmD0KEheeKoOrp12TIGXHZQ",
+        "channelUrl": "http://www.youtube.com/channel/UCmD0KEheeKoOrp12TIGXHZQ",
+        "displayName": "Piti",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lJcm0ELmvkk6rKf56f4kGlYhPmRDTMvxFg2vDTgeQ7oA=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "bFxKicYr12Xos1GQfFldDErOS58",
+      "id": "LCC.EhwKGkNLRzIxdGFnOW9rREZaX01sQWtkblNZdU1B",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC5Raa_B0OiYV4m_X10s9pwg",
+        "publishedAt": "2024-11-25T00:44:59.699245+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "sometimes fleet feels bad to play ranno into but you have some unique kill confirms against floaties",
+        "textMessageDetails": {
+          "messageText": "sometimes fleet feels bad to play ranno into but you have some unique kill confirms against floaties"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC5Raa_B0OiYV4m_X10s9pwg",
+        "channelUrl": "http://www.youtube.com/channel/UC5Raa_B0OiYV4m_X10s9pwg",
+        "displayName": "Sashiboop",
+        "profileImageUrl": "https://yt3.ggpht.com/ljbOybhAEP_U4Gy9F0YuYBRZD7gpITeTCECY6GnyKmM4LyNUXzyzZ0JMr5bc464_LdbtqRxCGg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "6Gvm2mnkUfKbaJh-8-vSFx7xrEM",
+      "id": "LCC.EhwKGkNQZjhxOWVnOW9rREZaSE5GZ2tkTGRFQXN3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "publishedAt": "2024-11-25T00:45:01.103177+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Enter this giveaway from now until December 7th to have a chance to receive a custom made Orcane Swipe bidet! Enter here: https://obp.gg/giveaway",
+        "textMessageDetails": {
+          "messageText": "Enter this giveaway from now until December 7th to have a chance to receive a custom made Orcane Swipe bidet! Enter here: https://obp.gg/giveaway"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "channelUrl": "http://www.youtube.com/channel/UCNL8jaJ9hId96P13QmQXNtA",
+        "displayName": "Streamlabs",
+        "profileImageUrl": "https://yt3.ggpht.com/_50MrQGxBLUD72VPogfj7ZNoetbb3Mz6WOaW24NxKvK5dYefK8t4eFUDCGPl3qtfMzsUBv2dwg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": true,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": true
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "iGP8N6nGXG3z4w6kkbmN8FieSOY",
+      "id": "LCC.EhwKGkNPYVh0TmVnOW9rREZhMEkxZ0FkT1hvWHdn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UChMWFwf_HYJb96FbgZVle_w",
+        "publishedAt": "2024-11-25T00:45:01.235147+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "everyone is incredibly biased",
+        "textMessageDetails": {
+          "messageText": "everyone is incredibly biased"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UChMWFwf_HYJb96FbgZVle_w",
+        "channelUrl": "http://www.youtube.com/channel/UChMWFwf_HYJb96FbgZVle_w",
+        "displayName": "wraith55",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nYgPiMkXxu4QJGWnP9ku-iWEXfhPW9xaCkVM8mrzNcBg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "QcVJJqMPclmO0do5UBcKdi7Mh1k",
+      "id": "LCC.EhwKGkNNaUt6OWVnOW9rREZlOHUxZ0FkR29zWTN3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "publishedAt": "2024-11-25T00:45:01.677374+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@Maw honestly lol",
+        "textMessageDetails": {
+          "messageText": "@Maw honestly lol"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "channelUrl": "http://www.youtube.com/channel/UCptRRnObZy7rb9sS1CLmuCw",
+        "displayName": "aplsed",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPotI68hVZLtMKbQj0FMMYSzYX4d3jp-IQFhszq0t_vb9Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "PZ8kp05zz_fZlzpPoFIa8O4x758",
+      "id": "LCC.EhwKGkNLLVNpdG1nOW9rREZUTUkxZ0FkWUY0aUNB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC1thcgiuCjrWLlDuQxDgtLA",
+        "publishedAt": "2024-11-25T00:45:04.740669+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "the amount of cap",
+        "textMessageDetails": {
+          "messageText": "the amount of cap"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC1thcgiuCjrWLlDuQxDgtLA",
+        "channelUrl": "http://www.youtube.com/channel/UC1thcgiuCjrWLlDuQxDgtLA",
+        "displayName": "sobbles",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l5t9R_deC59YrHgBEyzxbLsqbmAvyKBv0G0_EhvOJVmw=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "FgQL921jCKcZHI9jzV7_zI_390Q",
+      "id": "LCC.EhwKGkNJZXh3ZG1nOW9rREZTcjVsQWtkLXpjSlZ3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCLSbOrdkV08myY4B-PSFGhg",
+        "publishedAt": "2024-11-25T00:45:05.64695+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "yall are missing the point. if theres enough kragg is balanced talk they might not nerf as hard",
+        "textMessageDetails": {
+          "messageText": "yall are missing the point. if theres enough kragg is balanced talk they might not nerf as hard"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCLSbOrdkV08myY4B-PSFGhg",
+        "channelUrl": "http://www.youtube.com/channel/UCLSbOrdkV08myY4B-PSFGhg",
+        "displayName": "Crazysam23",
+        "profileImageUrl": "https://yt3.ggpht.com/dkRHtJSZfrKBn8_1yoTdgKzsh0S2VWH46IMztbeuzQxPVx9-0UlHC1MIgybpbyoqFm_X4pDP=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "LcvplpxP6dsxzWQXowVtrU7E9Tk",
+      "id": "LCC.EhwKGkNJamQ3TnVnOW9rREZSbVk1UWNkajNFeGhR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCPj9LhafhlH4bVtw00KM-gg",
+        "publishedAt": "2024-11-25T00:45:10.551001+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "!schedule",
+        "textMessageDetails": {
+          "messageText": "!schedule"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCPj9LhafhlH4bVtw00KM-gg",
+        "channelUrl": "http://www.youtube.com/channel/UCPj9LhafhlH4bVtw00KM-gg",
+        "displayName": "jesse coder",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kNJidqbjWBBacIPEy0Uq85SxmkB_NsrmpqvzAdceg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "IfGcAdkQCN6UGPNESxOhjOns0Ks",
+      "id": "LCC.EhwKGkNMNnU4OXVnOW9rREZZUEN3Z1FkMi1BVTRn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC9FHPTZ6PcfCOBT-RHpeObg",
+        "publishedAt": "2024-11-25T00:45:10.658205+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Kragg loses to fleet for sure",
+        "textMessageDetails": {
+          "messageText": "Kragg loses to fleet for sure"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC9FHPTZ6PcfCOBT-RHpeObg",
+        "channelUrl": "http://www.youtube.com/channel/UC9FHPTZ6PcfCOBT-RHpeObg",
+        "displayName": "Maw",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n50XWhNPr4qmpDqTsjAhYXyrkAKjRwiXj3QrLGrss=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "k8Wew8gBm9JpbSd3wygKlhPTllc",
+      "id": "LCC.EhwKGkNNai04dHlnOW9rREZjVE5sQWtkY0ljOFRR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCQvk2CuwjpvYVsN-8KdS4_w",
+        "publishedAt": "2024-11-25T00:45:12.750397+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Trying to dodge nerfs by saying he's the 3rd or 2nd best character?",
+        "textMessageDetails": {
+          "messageText": "Trying to dodge nerfs by saying he's the 3rd or 2nd best character?"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCQvk2CuwjpvYVsN-8KdS4_w",
+        "channelUrl": "http://www.youtube.com/channel/UCQvk2CuwjpvYVsN-8KdS4_w",
+        "displayName": "JFFailz",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m7xm396N_pxA4l6keorGzolVpgzZoXp6NwFETh7KA=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "O8V60VoC657wySaIyjJrlWkJmF0",
+      "id": "LCC.EhwKGkNKQ2dnZDJnOW9rREZUZkJsQWtkbnI0Zy13",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "publishedAt": "2024-11-25T00:45:12.98524+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@Piti join the club XD",
+        "textMessageDetails": {
+          "messageText": "@Piti join the club XD"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "channelUrl": "http://www.youtube.com/channel/UCptRRnObZy7rb9sS1CLmuCw",
+        "displayName": "aplsed",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPotI68hVZLtMKbQj0FMMYSzYX4d3jp-IQFhszq0t_vb9Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "RW1dCw7JIkQpiTqvTpHwXdR3A7A",
+      "id": "LCC.EhwKGkNJU2RzdC1nOW9rREZWa1ZMd2dkcjdjT0Fn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "publishedAt": "2024-11-25T00:45:17.980294+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@jesse coder, https://x.com/MogulMoves/status/1860067632826974486",
+        "textMessageDetails": {
+          "messageText": "@jesse coder, https://x.com/MogulMoves/status/1860067632826974486"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "channelUrl": "http://www.youtube.com/channel/UCNL8jaJ9hId96P13QmQXNtA",
+        "displayName": "Streamlabs",
+        "profileImageUrl": "https://yt3.ggpht.com/_50MrQGxBLUD72VPogfj7ZNoetbb3Mz6WOaW24NxKvK5dYefK8t4eFUDCGPl3qtfMzsUBv2dwg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": true,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": true
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "nYSiGL_fwlDX4Tk2htnNpOvhfPg",
+      "id": "LCC.EhwKGkNJV29ydUtnOW9rREZYRFF3Z1FkamJReUln",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCiptKVVS7rp6gDyt4vYGjIQ",
+        "publishedAt": "2024-11-25T00:45:24.207435+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "The blonde guy looks like an Albino Sonic the hedgehog",
+        "textMessageDetails": {
+          "messageText": "The blonde guy looks like an Albino Sonic the hedgehog"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCiptKVVS7rp6gDyt4vYGjIQ",
+        "channelUrl": "http://www.youtube.com/channel/UCiptKVVS7rp6gDyt4vYGjIQ",
+        "displayName": "comment crusader",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lXhkgQ4J84N6U3phAozBqnir-VDP0zhCtE3w0yc2g=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "J8MwL0tVkCd_EBqduPltpLCmXLQ",
+      "id": "LCC.EhwKGkNPTzM1LUtnOW9rREZUSV9yUVlka08wZURB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCYVf6rfnD4yk5gazXZKcCqA",
+        "publishedAt": "2024-11-25T00:45:25.143556+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "!bracket",
+        "textMessageDetails": {
+          "messageText": "!bracket"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCYVf6rfnD4yk5gazXZKcCqA",
+        "channelUrl": "http://www.youtube.com/channel/UCYVf6rfnD4yk5gazXZKcCqA",
+        "displayName": "IrenTurtle",
+        "profileImageUrl": "https://yt3.ggpht.com/EKUDsRFs3fVOl6fIXiVHTIruMCxA-_e3YcCHgx2biDaJbi4oBQwtpsswQ7MZxqOWi7VGvc36EA=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "vFdPTMCBqKmGQgaEdj6UjaBr50A",
+      "id": "LCC.EhwKGkNPdl9wdVNnOW9rREZUbkN3Z1FkODNvVGxn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCDNXb8lGtQvmU6d22nLZwOw",
+        "publishedAt": "2024-11-25T00:45:28.281639+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "that was definitely an interview",
+        "textMessageDetails": {
+          "messageText": "that was definitely an interview"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCDNXb8lGtQvmU6d22nLZwOw",
+        "channelUrl": "http://www.youtube.com/channel/UCDNXb8lGtQvmU6d22nLZwOw",
+        "displayName": "Terpstix",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nU2YD2Z--lTM_gdrvauZL95c14lMizI3TCYnoHVH-z3cvFi5RKknXfib9wghzEocwihg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": true,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "qtzgPPw1DbiEeCBAgyuYxqLhzLU",
+      "id": "LCC.EhwKGkNKenczdWFnOW9rREZkTUwxZ0FkdW1raTNn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC-AlRjXz0ebAmi_1abH8NaA",
+        "publishedAt": "2024-11-25T00:45:33.392776+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "he literally said kragg is broken LMAO",
+        "textMessageDetails": {
+          "messageText": "he literally said kragg is broken LMAO"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC-AlRjXz0ebAmi_1abH8NaA",
+        "channelUrl": "http://www.youtube.com/channel/UC-AlRjXz0ebAmi_1abH8NaA",
+        "displayName": "Motobug",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nfms_ZcG_s7B4MXv9loZ4m7GT98LP4SC7DMokNkZjSnSY=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "a-UXq_B4tC9LEcuUmJrqxvnghdc",
+      "id": "LCC.EhwKGkNLQ3F4dWVnOW9rREZWa1ZMd2dkcjdjT0Fn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "publishedAt": "2024-11-25T00:45:35.087992+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@IrenTurtle, https://www.start.gg/tournament/lacs-rivals/events",
+        "textMessageDetails": {
+          "messageText": "@IrenTurtle, https://www.start.gg/tournament/lacs-rivals/events"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCNL8jaJ9hId96P13QmQXNtA",
+        "channelUrl": "http://www.youtube.com/channel/UCNL8jaJ9hId96P13QmQXNtA",
+        "displayName": "Streamlabs",
+        "profileImageUrl": "https://yt3.ggpht.com/_50MrQGxBLUD72VPogfj7ZNoetbb3Mz6WOaW24NxKvK5dYefK8t4eFUDCGPl3qtfMzsUBv2dwg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": true,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": true
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "QTmXth9lns1t3YENkzYV9Msbdpc",
+      "id": "LCC.EhwKGkNKenNrLWlnOW9rREZXZk1sQWtkY1hjaDRR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCb-DkxjRCsNuhoH1mRDHakg",
+        "publishedAt": "2024-11-25T00:45:36.366165+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "not a fan mans is just saying shit",
+        "textMessageDetails": {
+          "messageText": "not a fan mans is just saying shit"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCb-DkxjRCsNuhoH1mRDHakg",
+        "channelUrl": "http://www.youtube.com/channel/UCb-DkxjRCsNuhoH1mRDHakg",
+        "displayName": "Coldsheep_",
+        "profileImageUrl": "https://yt3.ggpht.com/oihhVMMEAkgPAeQOgElzJxgO73UX-GA_6y0ZoFErbs8KS1-oxc-SHPoQ5VVTD6XR_36w0fIiwzs=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "vIQSKviMurOq7UUirR8iVQ8C9D4",
+      "id": "LCC.EhwKGkNLWEp4LWlnOW9rREZjTGlsQWtkMWtnS25R",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCG-OtKyFn5OvA2UZeH-7svw",
+        "publishedAt": "2024-11-25T00:45:37.20646+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "The fact that no one can agree who the best fighters are shows how good the game is balanced",
+        "textMessageDetails": {
+          "messageText": "The fact that no one can agree who the best fighters are shows how good the game is balanced"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCG-OtKyFn5OvA2UZeH-7svw",
+        "channelUrl": "http://www.youtube.com/channel/UCG-OtKyFn5OvA2UZeH-7svw",
+        "displayName": "crystallit3",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_keeWQNc0sUiL0M2hwc3iTvmVUeneJnDCLK2WZ48UftrA=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "y006OtLXqxrO0uyAzx5QdKWSF3o",
+      "id": "LCC.EhwKGkNJYkNzZTJnOW9rREZlX1lsQWtkdm44Q0ln",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "publishedAt": "2024-11-25T00:45:47.329441+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "His nerfs (going off the leaked patch list) seem fair tho. They're not gutting him THAT much",
+        "textMessageDetails": {
+          "messageText": "His nerfs (going off the leaked patch list) seem fair tho. They're not gutting him THAT much"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "channelUrl": "http://www.youtube.com/channel/UCptRRnObZy7rb9sS1CLmuCw",
+        "displayName": "aplsed",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPotI68hVZLtMKbQj0FMMYSzYX4d3jp-IQFhszq0t_vb9Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "wKYlz3H3ngNkff4xkfSp-tMY0S8",
+      "id": "LCC.EhwKGkNLQ0wtdTJnOW9rREZSd0gxZ0Fkby1NbkNB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCupH2IdNrbX3OnYBLsjUAIQ",
+        "publishedAt": "2024-11-25T00:45:48.523545+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Any melee players still in?",
+        "textMessageDetails": {
+          "messageText": "Any melee players still in?"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCupH2IdNrbX3OnYBLsjUAIQ",
+        "channelUrl": "http://www.youtube.com/channel/UCupH2IdNrbX3OnYBLsjUAIQ",
+        "displayName": "EnjoyingGame",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_llcA4liZFx74F8cHb6iNc8QMWMP1Ed8086Zz9BERwfGhA=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "3YMyrqjnWV7xAYybYaoryEhy8Ms",
+      "id": "LCC.EhwKGkNLTHdoZkNnOW9rREZab0sxZ0FkNUY0T3pB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCDBbi4l_racB3NEfzAU96lw",
+        "publishedAt": "2024-11-25T00:45:52.908387+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "!drop",
+        "textMessageDetails": {
+          "messageText": "!drop"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCDBbi4l_racB3NEfzAU96lw",
+        "channelUrl": "http://www.youtube.com/channel/UCDBbi4l_racB3NEfzAU96lw",
+        "displayName": "Leonard Goldmann",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_la8u1STirnjjkTwTnodjZM5q--vzXNeOcVNlGBWasb4n4=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "PZhsXMsqmQB9s1dANPeD85QAXEQ",
+      "id": "LCC.EhwKGkNKRHYydkNnOW9rREZXUU9Md2dkTDg4V2hn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCOOPBvTO91hiL-xVOLompqg",
+        "publishedAt": "2024-11-25T00:45:54.298506+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "had dan fought Ronald Mcdonal from Rivals 1?",
+        "textMessageDetails": {
+          "messageText": "had dan fought Ronald Mcdonal from Rivals 1?"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCOOPBvTO91hiL-xVOLompqg",
+        "channelUrl": "http://www.youtube.com/channel/UCOOPBvTO91hiL-xVOLompqg",
+        "displayName": "PickleMic",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l2m6xnQIkGIe085t1l3QKu9OLcA7ubGl9YcT6fJ4x_XnEE37zF6vFZuGyS8tIezkPGIA=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": true,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "V_zdTVqAAt_3rhnUW97oh-OFN-4",
+      "id": "LCC.EhwKGkNLbU14UEtnOW9rREZjN0N3Z1FkLVprUHN3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCsOWfKHmwpfqU28xg6h9Biw",
+        "publishedAt": "2024-11-25T00:45:58.118173+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "no",
+        "textMessageDetails": {
+          "messageText": "no"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCsOWfKHmwpfqU28xg6h9Biw",
+        "channelUrl": "http://www.youtube.com/channel/UCsOWfKHmwpfqU28xg6h9Biw",
+        "displayName": "bui ( ^ω^ )",
+        "profileImageUrl": "https://yt3.ggpht.com/FoLcGt-bzeZ4nMMhuKbdfB67vcQ08mmnvjHw2qeyj4HErXwMBeyEM5I3XWCVIoOrGpG3IA6n=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "l6lyZwYrars0NlrOhwS6qaGzOWg",
+      "id": "LCC.EhwKGkNNZnlfZldnOW9rREZjTGlsQWtkMWtnS25R",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCh1NTiErSrJud26VLkCx_Bg",
+        "publishedAt": "2024-11-25T00:46:05.357199+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "yeah melee players are out",
+        "textMessageDetails": {
+          "messageText": "yeah melee players are out"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCh1NTiErSrJud26VLkCx_Bg",
+        "channelUrl": "http://www.youtube.com/channel/UCh1NTiErSrJud26VLkCx_Bg",
+        "displayName": "Jason Whipp",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kOoRCATilzCBJXylvjRVECdkSYKWUNGS52bEfM_kuVmug=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "eNIi87ejDnsfbiQJKZAGv5XlGHM",
+      "id": "LCC.EhwKGkNQaW5wZmVnOW9rREZjVTIxZ0FkTUU4Q2ZB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCUu4dZm69NMyXflM20GkWYg",
+        "publishedAt": "2024-11-25T00:46:08.101544+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "alpha is so good on the mic, especially at bringing Dan in",
+        "textMessageDetails": {
+          "messageText": "alpha is so good on the mic, especially at bringing Dan in"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCUu4dZm69NMyXflM20GkWYg",
+        "channelUrl": "http://www.youtube.com/channel/UCUu4dZm69NMyXflM20GkWYg",
+        "displayName": "eXodius OW",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kN0EYTYsJB6GEXt_7i_8UsCNh7RsVtcTfkaYJCYk4vm6I=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "KLIRpb_wpXUgnmnhGveQw5rV-mU",
+      "id": "LCC.EhwKGkNPS24wdmVnOW9rREZUbkN3Z1FkODNvVGxn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCsOWfKHmwpfqU28xg6h9Biw",
+        "publishedAt": "2024-11-25T00:46:08.837953+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "leffen was the last one",
+        "textMessageDetails": {
+          "messageText": "leffen was the last one"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCsOWfKHmwpfqU28xg6h9Biw",
+        "channelUrl": "http://www.youtube.com/channel/UCsOWfKHmwpfqU28xg6h9Biw",
+        "displayName": "bui ( ^ω^ )",
+        "profileImageUrl": "https://yt3.ggpht.com/FoLcGt-bzeZ4nMMhuKbdfB67vcQ08mmnvjHw2qeyj4HErXwMBeyEM5I3XWCVIoOrGpG3IA6n=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "Y2-8OOAffG9eUEuLrapKVuyz90I",
+      "id": "LCC.EhwKGkNQX250UGlnOW9rREZVTXYxZ0FkcFE0eVFn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC5Raa_B0OiYV4m_X10s9pwg",
+        "publishedAt": "2024-11-25T00:46:10.452008+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "only rivals and PM players leftr",
+        "textMessageDetails": {
+          "messageText": "only rivals and PM players leftr"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC5Raa_B0OiYV4m_X10s9pwg",
+        "channelUrl": "http://www.youtube.com/channel/UC5Raa_B0OiYV4m_X10s9pwg",
+        "displayName": "Sashiboop",
+        "profileImageUrl": "https://yt3.ggpht.com/ljbOybhAEP_U4Gy9F0YuYBRZD7gpITeTCECY6GnyKmM4LyNUXzyzZ0JMr5bc464_LdbtqRxCGg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "zaPv4Pd6Zt1rqF9YZYZGIMdtmFU",
+      "id": "LCC.EhwKGkNLaXh1dnlnOW9rREZYSUkxZ0FkQkNnejdR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCs42TBhCgC-8txvcTxX6Hmw",
+        "publishedAt": "2024-11-25T00:46:18.933518+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@crystallit3 that's a joke, they do that on purpose to avoid nerfs",
+        "textMessageDetails": {
+          "messageText": "@crystallit3 that's a joke, they do that on purpose to avoid nerfs"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCs42TBhCgC-8txvcTxX6Hmw",
+        "channelUrl": "http://www.youtube.com/channel/UCs42TBhCgC-8txvcTxX6Hmw",
+        "displayName": "Christian Martinez",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mztpxJLlEPekeB2I5RTYxO0iBH9-VKCOKGYKy56Tg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "2UzDemovL3QqVmXpSbkTYWfytEg",
+      "id": "LCC.EhwKGkNOekc5ZjJnOW9rREZkRFRsQWtkRi1RVzd3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCNIDriXPSn1Gb3LOqyHethg",
+        "publishedAt": "2024-11-25T00:46:22.001458+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Kragg seems so anti-interaction with no disadvantages for being so heavy",
+        "textMessageDetails": {
+          "messageText": "Kragg seems so anti-interaction with no disadvantages for being so heavy"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCNIDriXPSn1Gb3LOqyHethg",
+        "channelUrl": "http://www.youtube.com/channel/UCNIDriXPSn1Gb3LOqyHethg",
+        "displayName": "Wintermute",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ngVkyhiaE3wq97C1RFVwrzBeIbWGd2J3UPhELc91I=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "WkXPi1gPMlUVwP_mQZ_FMxOykVQ",
+      "id": "LCC.EhwKGkNJU01wXzZnOW9rREZYSUkxZ0FkQkNnejdR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCupH2IdNrbX3OnYBLsjUAIQ",
+        "publishedAt": "2024-11-25T00:46:22.810538+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "unlucky",
+        "textMessageDetails": {
+          "messageText": "unlucky"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCupH2IdNrbX3OnYBLsjUAIQ",
+        "channelUrl": "http://www.youtube.com/channel/UCupH2IdNrbX3OnYBLsjUAIQ",
+        "displayName": "EnjoyingGame",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_llcA4liZFx74F8cHb6iNc8QMWMP1Ed8086Zz9BERwfGhA=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "H6yVZ0HPapeN8BtslbhXLrsI-Xw",
+      "id": "LCC.EhwKGkNLenFnWUdoOW9rREZkRFRsQWtkRi1RVzd3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "publishedAt": "2024-11-25T00:46:28.490872+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@EnjoyingGame nope",
+        "textMessageDetails": {
+          "messageText": "@EnjoyingGame nope"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "channelUrl": "http://www.youtube.com/channel/UCptRRnObZy7rb9sS1CLmuCw",
+        "displayName": "aplsed",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPotI68hVZLtMKbQj0FMMYSzYX4d3jp-IQFhszq0t_vb9Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "Cejm_gICjjB2VpP1ftxUW_SXhXg",
+      "id": "LCC.EhwKGkNMNnV3NEdoOW9rREZSd0oxZ0FkMmtVY1V3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC5Raa_B0OiYV4m_X10s9pwg",
+        "publishedAt": "2024-11-25T00:46:29.566101+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "unless you consider sol an ult player but i dont",
+        "textMessageDetails": {
+          "messageText": "unless you consider sol an ult player but i dont"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC5Raa_B0OiYV4m_X10s9pwg",
+        "channelUrl": "http://www.youtube.com/channel/UC5Raa_B0OiYV4m_X10s9pwg",
+        "displayName": "Sashiboop",
+        "profileImageUrl": "https://yt3.ggpht.com/ljbOybhAEP_U4Gy9F0YuYBRZD7gpITeTCECY6GnyKmM4LyNUXzyzZ0JMr5bc464_LdbtqRxCGg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "qRfTLwlc5LO7-eslt8AH6v7WJI0",
+      "id": "LCC.EhwKGkNOV2JuSUtoOW9rREZkTVdyUVlkN0JBUkxn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCsOWfKHmwpfqU28xg6h9Biw",
+        "publishedAt": "2024-11-25T00:46:31.019923+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "pm stays winning tbh",
+        "textMessageDetails": {
+          "messageText": "pm stays winning tbh"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCsOWfKHmwpfqU28xg6h9Biw",
+        "channelUrl": "http://www.youtube.com/channel/UCsOWfKHmwpfqU28xg6h9Biw",
+        "displayName": "bui ( ^ω^ )",
+        "profileImageUrl": "https://yt3.ggpht.com/FoLcGt-bzeZ4nMMhuKbdfB67vcQ08mmnvjHw2qeyj4HErXwMBeyEM5I3XWCVIoOrGpG3IA6n=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "MNy1wLYPCb_5Sr_sbV0BLIKkkQA",
+      "id": "LCC.EhwKGkNQeWN5WWFoOW9rREZTalE0d2NkMmJrdHBn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCgL-SGfOat9awHn10fEyDog",
+        "publishedAt": "2024-11-25T00:46:40.14699+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "CHAT WHO HAS THE BETTER HAIR",
+        "textMessageDetails": {
+          "messageText": "CHAT WHO HAS THE BETTER HAIR"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCgL-SGfOat9awHn10fEyDog",
+        "channelUrl": "http://www.youtube.com/channel/UCgL-SGfOat9awHn10fEyDog",
+        "displayName": "KilogramHours",
+        "profileImageUrl": "https://yt3.ggpht.com/WWEXMRtAUYMI8VUm_rXkbckoJLH8MS1d99c5rjJkCwITIvTWqXzoZTJeCmxu_sjDljul0H7W2A=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "zclhK9pOrOITxW69vXcT01862UI",
+      "id": "LCC.EhwKGkNQRDBpSW1oOW9rREZmQ1E1UWNkSVJjUHhn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCLgO5bEL04VdJQxgbEmPv5g",
+        "publishedAt": "2024-11-25T00:46:45.387162+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "kragg builds so much damage so fast",
+        "textMessageDetails": {
+          "messageText": "kragg builds so much damage so fast"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCLgO5bEL04VdJQxgbEmPv5g",
+        "channelUrl": "http://www.youtube.com/channel/UCLgO5bEL04VdJQxgbEmPv5g",
+        "displayName": "Christian Rojas",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_livBapInjDkDS2g8YT8pWgK7CqZ4j61DS2MR8AGqPzgsg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": true,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "_0spqMytyHd4uFIPXA-xnqMzk1c",
+      "id": "LCC.EhwKGkNLR0t0NDJoOW9rREZhRENsQWtkTDRRMmdn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCxk3ui3bc0xT14IXsQvnGDw",
+        "publishedAt": "2024-11-25T00:46:54.529413+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Dan, are you saying players in Gold are bad?",
+        "textMessageDetails": {
+          "messageText": "Dan, are you saying players in Gold are bad?"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCxk3ui3bc0xT14IXsQvnGDw",
+        "channelUrl": "http://www.youtube.com/channel/UCxk3ui3bc0xT14IXsQvnGDw",
+        "displayName": "Zake64",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kT4Pu1CRufZh_AI3Tkj473VKQTPlyQ76Sa6feCorI=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "bTm3cZtm2E2OcQ_BDLvjGgDR8wQ",
+      "id": "LCC.EhwKGkNNYWIyNDJoOW9rREZUTUkxZ0FkWUY0aUNB",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCupH2IdNrbX3OnYBLsjUAIQ",
+        "publishedAt": "2024-11-25T00:46:55.122767+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "I dont know any pm pr ult players just melee",
+        "textMessageDetails": {
+          "messageText": "I dont know any pm pr ult players just melee"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCupH2IdNrbX3OnYBLsjUAIQ",
+        "channelUrl": "http://www.youtube.com/channel/UCupH2IdNrbX3OnYBLsjUAIQ",
+        "displayName": "EnjoyingGame",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_llcA4liZFx74F8cHb6iNc8QMWMP1Ed8086Zz9BERwfGhA=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "jhpWM8LcysnAxExiOdqsB81FDP0",
+      "id": "LCC.EhwKGkNKM01vbzZoOW9rREZjN0N3Z1FkLVprUHN3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC9FHPTZ6PcfCOBT-RHpeObg",
+        "publishedAt": "2024-11-25T00:46:56.29013+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "it will be a fleet fleet grand finals unless Rong wins this",
+        "textMessageDetails": {
+          "messageText": "it will be a fleet fleet grand finals unless Rong wins this"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC9FHPTZ6PcfCOBT-RHpeObg",
+        "channelUrl": "http://www.youtube.com/channel/UC9FHPTZ6PcfCOBT-RHpeObg",
+        "displayName": "Maw",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n50XWhNPr4qmpDqTsjAhYXyrkAKjRwiXj3QrLGrss=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "e-6HKCPRSGyIhmsfOQoXfpDCj1s",
+      "id": "LCC.EhwKGkNQM2JrSkdoOW9rREZXak40d2Nka1hzNVZ3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCxk3ui3bc0xT14IXsQvnGDw",
+        "publishedAt": "2024-11-25T00:47:02.289672+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "🤕",
+        "textMessageDetails": {
+          "messageText": "🤕"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCxk3ui3bc0xT14IXsQvnGDw",
+        "channelUrl": "http://www.youtube.com/channel/UCxk3ui3bc0xT14IXsQvnGDw",
+        "displayName": "Zake64",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kT4Pu1CRufZh_AI3Tkj473VKQTPlyQ76Sa6feCorI=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "IafZDApj_UHzFAzPSWu6kN1ht5U",
+      "id": "LCC.EhwKGkNMVDE3cEdoOW9rREZhZkJ3Z1Fkc0ZJaUdR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "publishedAt": "2024-11-25T00:47:03.831455+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "As a CT resident, seeing PM players get proper work warms my heart",
+        "textMessageDetails": {
+          "messageText": "As a CT resident, seeing PM players get proper work warms my heart"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "channelUrl": "http://www.youtube.com/channel/UCptRRnObZy7rb9sS1CLmuCw",
+        "displayName": "aplsed",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPotI68hVZLtMKbQj0FMMYSzYX4d3jp-IQFhszq0t_vb9Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "1JE1gR5bwr2UqjXe2DmT-lvcZd4",
+      "id": "LCC.EhwKGkNPcnc5Wk9oOW9rREZXM0pGZ2tkOEZrVGtR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCiptKVVS7rp6gDyt4vYGjIQ",
+        "publishedAt": "2024-11-25T00:47:08.143268+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Anyone know how to get a shampoo bottle out of an asshole. Asking for a friend.",
+        "textMessageDetails": {
+          "messageText": "Anyone know how to get a shampoo bottle out of an asshole. Asking for a friend."
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCiptKVVS7rp6gDyt4vYGjIQ",
+        "channelUrl": "http://www.youtube.com/channel/UCiptKVVS7rp6gDyt4vYGjIQ",
+        "displayName": "comment crusader",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lXhkgQ4J84N6U3phAozBqnir-VDP0zhCtE3w0yc2g=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "DCsELwAPb_s3vg7UXwns0eygk2E",
+      "id": "LCC.EhwKGkNLNjI2cFNoOW9rREZkTVdyUVlkN0JBUkxn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCLgO5bEL04VdJQxgbEmPv5g",
+        "publishedAt": "2024-11-25T00:47:10.050872+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "gold players are nashty",
+        "textMessageDetails": {
+          "messageText": "gold players are nashty"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCLgO5bEL04VdJQxgbEmPv5g",
+        "channelUrl": "http://www.youtube.com/channel/UCLgO5bEL04VdJQxgbEmPv5g",
+        "displayName": "Christian Rojas",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_livBapInjDkDS2g8YT8pWgK7CqZ4j61DS2MR8AGqPzgsg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": true,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "DfTLhZ5m6_LRiNkMPfC3p0wjxMw",
+      "id": "LCC.EhwKGkNPSFNuS0NoOW9rREZSWDFsQWtkREQwby13",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCGfUsU9kzDZ9Y2tAZGbztPg",
+        "publishedAt": "2024-11-25T00:47:33.94336+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "movement tho???",
+        "textMessageDetails": {
+          "messageText": "movement tho???"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCGfUsU9kzDZ9Y2tAZGbztPg",
+        "channelUrl": "http://www.youtube.com/channel/UCGfUsU9kzDZ9Y2tAZGbztPg",
+        "displayName": "jax",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lCKVHCObmqk93iIY3abm2RolY0RzyOZxCXnjFlXT2hxZNt=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": true,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "e2zV3-lhzYG80Z_CWm7oeHdDPgI",
+      "id": "LCC.EhwKGkNNRC13YUNoOW9rREZhRENsQWtkTDRRMmdn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCxk3ui3bc0xT14IXsQvnGDw",
+        "publishedAt": "2024-11-25T00:47:34.55458+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@Christian Rojas thanks bro",
+        "textMessageDetails": {
+          "messageText": "@Christian Rojas thanks bro"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCxk3ui3bc0xT14IXsQvnGDw",
+        "channelUrl": "http://www.youtube.com/channel/UCxk3ui3bc0xT14IXsQvnGDw",
+        "displayName": "Zake64",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kT4Pu1CRufZh_AI3Tkj473VKQTPlyQ76Sa6feCorI=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "tAkDl0MXSI884ixA-PMG8bLpXLc",
+      "id": "LCC.EhwKGkNKRFg4S0NoOW9rREZUdlFsQWtkaXN3TmRR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "publishedAt": "2024-11-25T00:47:35.31866+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "(context: a good half of the best PM players of all time are from Connecticut)",
+        "textMessageDetails": {
+          "messageText": "(context: a good half of the best PM players of all time are from Connecticut)"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCptRRnObZy7rb9sS1CLmuCw",
+        "channelUrl": "http://www.youtube.com/channel/UCptRRnObZy7rb9sS1CLmuCw",
+        "displayName": "aplsed",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPotI68hVZLtMKbQj0FMMYSzYX4d3jp-IQFhszq0t_vb9Y=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "O4leLZrfxj1iJ5-wm-eKQng-Le0",
+      "id": "LCC.EhwKGkNLM21qNk9oOW9rREZVTXYxZ0FkcFE0eVFn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC_FGPnXICkxLua8BIMHnLug",
+        "publishedAt": "2024-11-25T00:47:40.024558+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@aplsed Same",
+        "textMessageDetails": {
+          "messageText": "@aplsed Same"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC_FGPnXICkxLua8BIMHnLug",
+        "channelUrl": "http://www.youtube.com/channel/UC_FGPnXICkxLua8BIMHnLug",
+        "displayName": "Zack Damien",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kxVf8izN7e7BJHdYh64mKeJBgd1WbSEml0a7TnMGo=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "ERYmKhD0t9NPtqoAidlXYIJDKwE",
+      "id": "LCC.EhwKGkNQU3JoNmFoOW9rREZhYlpGZ2tkSFpFZld3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC31r6U7fF6cIQIHHXLQGxZw",
+        "publishedAt": "2024-11-25T00:47:46.176925+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "@aplsed HoG Wednesday for Rivals and P+ hitting different now",
+        "textMessageDetails": {
+          "messageText": "@aplsed HoG Wednesday for Rivals and P+ hitting different now"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC31r6U7fF6cIQIHHXLQGxZw",
+        "channelUrl": "http://www.youtube.com/channel/UC31r6U7fF6cIQIHHXLQGxZw",
+        "displayName": "Kipper",
+        "profileImageUrl": "https://yt3.ggpht.com/LeiPcW3T-EFuVeGil7QIxS15uMH68rnlXdNdVDtcB0jO3wIg84Riq0MrDf_dG_N_JuPEnKtYFL8=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "lz8eM9EmWGb4k9PcjA8w3_hpRgI",
+      "id": "LCC.EhwKGkNKRFZzYWVoOW9rREZTSEF3Z1FkOTZZVFBR",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCql8JH7FycoMdecp_uJi_bQ",
+        "publishedAt": "2024-11-25T00:47:48.966442+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "what are they doing xD",
+        "textMessageDetails": {
+          "messageText": "what are they doing xD"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCql8JH7FycoMdecp_uJi_bQ",
+        "channelUrl": "http://www.youtube.com/channel/UCql8JH7FycoMdecp_uJi_bQ",
+        "displayName": "CryptidKyle",
+        "profileImageUrl": "https://yt3.ggpht.com/w5zyy8bF07bXE79O3wjTrxIVpudQI5qbriXcyxkuLBhBeT3hzQ59FK95v_ndt1NMhIw9CMXeHg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": true,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "3d0B5wTf8IGgjLuaIHuwouttm5g",
+      "id": "LCC.EhwKGkNJSDR4YWVoOW9rREZjN0N3Z1FkLVprUHN3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC8cjE5y485eC9XQEXNNbuQA",
+        "publishedAt": "2024-11-25T00:47:49.298342+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "tweet is out",
+        "textMessageDetails": {
+          "messageText": "tweet is out"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC8cjE5y485eC9XQEXNNbuQA",
+        "channelUrl": "http://www.youtube.com/channel/UC8cjE5y485eC9XQEXNNbuQA",
+        "displayName": "Chadibisco",
+        "profileImageUrl": "https://yt3.ggpht.com/3lV3P0_wINu87AvoiA_mEUz__YYeoR8tXyJkUDd9V2wV4gixFpYvjNuctXoPBo-EHSjXiRdzUQ=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "iOyBO_91GNFJafEvk0MIYeumAPk",
+      "id": "LCC.EhwKGkNOaVR6NmVoOW9rREZXak40d2Nka1hzNVZ3",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UCzi5mbgHVpyNhwaBy-js0Ww",
+        "publishedAt": "2024-11-25T00:47:49.450039+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "Bro what is this",
+        "textMessageDetails": {
+          "messageText": "Bro what is this"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UCzi5mbgHVpyNhwaBy-js0Ww",
+        "channelUrl": "http://www.youtube.com/channel/UCzi5mbgHVpyNhwaBy-js0Ww",
+        "displayName": "MasterSamurai",
+        "profileImageUrl": "https://yt3.ggpht.com/brqyAOy-vabDkzPcbHmPu191qIWNzvxaQZbvoCAlDbut6M5Opr1vWT9An3BY3A_GkYfkuSqsVd8=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": true,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "DzHAx9jGpixhYep7vyew0G2wUXs",
+      "id": "LCC.EhwKGkNJZWNyNmloOW9rREZTd0gxZ0FkQTZNdUdn",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UChMWFwf_HYJb96FbgZVle_w",
+        "publishedAt": "2024-11-25T00:47:51.025742+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "ROFL",
+        "textMessageDetails": {
+          "messageText": "ROFL"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UChMWFwf_HYJb96FbgZVle_w",
+        "channelUrl": "http://www.youtube.com/channel/UChMWFwf_HYJb96FbgZVle_w",
+        "displayName": "wraith55",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nYgPiMkXxu4QJGWnP9ku-iWEXfhPW9xaCkVM8mrzNcBg=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    },
+    {
+      "kind": "youtube#liveChatMessage",
+      "etag": "rsV54HI1EIeaWoZBurszNh6c41Q",
+      "id": "LCC.EhwKGkNKVE1rNnFoOW9rREZaWElGZ2tkWExNQS1B",
+      "snippet": {
+        "type": "textMessageEvent",
+        "liveChatId": "Cg0KC1BDY3VkRW1IRG1vKicKGFVDclBzZVlMR3BOeWdWaTM0UXBHTnFwQRILUENjdWRFbUhEbW8",
+        "authorChannelId": "UC9FHPTZ6PcfCOBT-RHpeObg",
+        "publishedAt": "2024-11-25T00:47:54.765396+00:00",
+        "hasDisplayContent": true,
+        "displayMessage": "LOL",
+        "textMessageDetails": {
+          "messageText": "LOL"
+        }
+      },
+      "authorDetails": {
+        "channelId": "UC9FHPTZ6PcfCOBT-RHpeObg",
+        "channelUrl": "http://www.youtube.com/channel/UC9FHPTZ6PcfCOBT-RHpeObg",
+        "displayName": "Maw",
+        "profileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n50XWhNPr4qmpDqTsjAhYXyrkAKjRwiXj3QrLGrss=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isChatOwner": false,
+        "isChatSponsor": false,
+        "isChatModerator": false
+      }
+    }
+  ]
+}
