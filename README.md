@@ -43,8 +43,17 @@ chmod +x ylct.sh
 Run the script with the input of the a live YouTuber's Channel Name. For instance: 
 
 ```bash
-./ylct.sh "Lofi Girl"
+./ylct.sh "Ludwig"
 ```
+
+## Issues 
+
+- Sometimes if the Youtuber input is vaugue it could provide the wrong stream ID.
+
+## Missing Features 
+
+- Typing in chat 
+- Youtube-specific emotes/GIFs
 
 ## Resource Used  
 
