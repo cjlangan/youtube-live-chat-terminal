@@ -2,6 +2,8 @@
 
 #### To view a YouTube streams chat messages in your terminal. 
 
+![](screenshot.png)
+
 ## Dependencies 
 
 - jq 
